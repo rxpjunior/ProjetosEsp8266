@@ -1,5 +1,5 @@
 /*
-    
+ Webserver com o Hostname alterado    
 */
 
 #include <ESP8266WiFi.h>
@@ -31,7 +31,7 @@ void setup() {
 
   WiFi.mode(WIFI_STA);
 
-  WiFi.hostname(novoHostName.c_str());
+  WiFi.hostname(novoHostName.c_str()); // Funcao que transforma a String em String do tipo de LP C.
   
   WiFi.begin(ssid, password);
 
