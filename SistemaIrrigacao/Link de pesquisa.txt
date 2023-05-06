@@ -1,0 +1,10 @@
+https://blog.arduinoomega.com/ebooks/Arduino-Omega-Ebook-IoT-Para-Iniciantes.pdf
+https://acervolima.com/como-atualizar-automaticamente-uma-pagina-da-web-em-tempo-fixo/#:~:text=Abordagem%201%3A%20pode%2Dse%20atualizar,content%20dentro%20da%20tag%20Meta.
+
+https://autocorerobotica.blog.br/aprenda-controlar-o-modulo-rele-com-esp8266/
+
+https://autocorerobotica.blog.br/aprenda-controlar-o-modulo-rele-com-esp8266/
+
+Usamos resistor de 1K na base do transistor
+
+sobre ligação de transistores - https://www.youtube.com/watch?v=FLZFXTwRKO0&ab_channel=GibaManuten%C3%A7%C3%A3o
